@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola, soy Patricia 😄, estudiante del grado superior de Desarrollo de Aplicaciones Multiplataforma. 
+
+![FotoPerfilGit](https://github.com/patriciaaguayo/patriciaaguayo/assets/145468958/e8f2d3bc-f114-4e82-8649-ebc86efaac59)
+
 
 <!--
 **patriciaaguayo/patriciaaguayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
